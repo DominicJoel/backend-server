@@ -1,0 +1,1 @@
+module.exports.SEED = " este-es-un-seed-dificil"; //Este es un config con el Seed o la semilla del token
